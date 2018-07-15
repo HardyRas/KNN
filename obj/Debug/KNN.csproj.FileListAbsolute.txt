@@ -1,0 +1,6 @@
+C:\Users\Rasto\Desktop\Temporary files\School\Machine Learning\Evaluations\Compulsory\KNN-master\KNN\bin\Debug\KNN.exe
+C:\Users\Rasto\Desktop\Temporary files\School\Machine Learning\Evaluations\Compulsory\KNN-master\KNN\bin\Debug\KNN.pdb
+C:\Users\Rasto\Desktop\Temporary files\School\Machine Learning\Evaluations\Compulsory\KNN-master\KNN\obj\Debug\KNN.csprojAssemblyReference.cache
+C:\Users\Rasto\Desktop\Temporary files\School\Machine Learning\Evaluations\Compulsory\KNN-master\KNN\obj\Debug\KNN.csproj.CoreCompileInputs.cache
+C:\Users\Rasto\Desktop\Temporary files\School\Machine Learning\Evaluations\Compulsory\KNN-master\KNN\obj\Debug\KNN.exe
+C:\Users\Rasto\Desktop\Temporary files\School\Machine Learning\Evaluations\Compulsory\KNN-master\KNN\obj\Debug\KNN.pdb
